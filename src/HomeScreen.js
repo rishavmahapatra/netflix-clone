@@ -6,7 +6,6 @@ function HomeScreen() {
   return (
     <div className='homeScreen'>
     <Nav/>
-     <div className="nav_contents">
         <img 
         className='nav_logo'
         src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" alt='logo'/>
@@ -16,7 +15,7 @@ function HomeScreen() {
         className='nav_avatar'
         src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/e70b1333850498.56ba69ac32ae3.png' alt='avatar'/>
 
-        </div>
+       
 <h1>test</h1>
 <h1>test</h1>
 <h1>test</h1>
