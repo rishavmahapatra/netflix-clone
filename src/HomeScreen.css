@@ -8,6 +8,8 @@
   background-size: contain;
   background-color: blue;
   height: auto;
+  margin: auto;
+  padding: auto;
 }
 
 .content{
