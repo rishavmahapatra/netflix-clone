@@ -5,8 +5,9 @@ import Nav from './Nav';
 function HomeScreen() {
   return (
     <div className='homeScreen'>
-    <Nav/> 
     <div className='content'>
+    <Nav/> 
+    
 <h1>Rishav</h1>
 <h1>test</h1>
 <h1>test</h1>
