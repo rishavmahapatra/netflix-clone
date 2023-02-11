@@ -3,5 +3,5 @@
   background-image: url("https://www.whats-on-netflix.com/wp-content/uploads/2022/10/79-new-movies-and-tv-shows-added-to-netflix-uk-this-week-jpeg.webp");
   background-repeat: no-repeat;
   background-size: auto;
-
+  background-size: contain;
 }
