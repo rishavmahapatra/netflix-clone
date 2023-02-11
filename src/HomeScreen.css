@@ -6,7 +6,6 @@
   background-repeat: no-repeat;
   background-size: auto;
   background-size: contain;
-  background-color: blue;
   height: auto;
   margin: auto;
   padding: auto;
@@ -14,6 +13,6 @@
 
 .content{
  position: relative;
- top: auto;
+ top: 300;
  background-color: brown;
 }
