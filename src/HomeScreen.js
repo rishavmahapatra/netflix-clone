@@ -17,6 +17,40 @@ function HomeScreen() {
 
        
 <h1>Rishav</h1>
+    <Rows
+        title='NETFLIX ORIGINALS'
+        fetchUrl={requests.fetchNetflixOriginals}
+        isLargeRow
+      />
+      <Rows
+        title='Trending Now'
+        fetchUrl={requests.fetchTrending}
+      />
+      <Rows
+        title='Top Rated'
+        fetchUrl={requests.fetchTopRated}
+      />
+      <Rows
+        title='Comedy Movies'
+        fetchUrl={requests.fetchComedyMovies}
+      />
+      <Rows
+        title='Action Movies'
+        fetchUrl={requests.fetchActionMovies}
+      />
+      <Rows
+        title='Horror Movies'
+        fetchUrl={requests.fetchHorrorMovies}
+      />
+      <Rows
+        title='Romance Movies'
+        fetchUrl={requests.fetchRomanceMovies}
+      />
+      <Rows
+        title='Documentaries'
+        fetchUrl={requests.fetchDocumentaries}
+      />
+    
 <h1>test</h1>
 <h1>test</h1>
 <h1>test</h1>
