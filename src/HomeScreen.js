@@ -7,9 +7,9 @@ function HomeScreen() {
     <div className='homeScreen'>
     
     <Nav/> 
-    <div className='content'>
+    
  <img src= "https://wallpapercave.com/wp/wp6157135.jpg" alt='logo'/>
-     </div>
+     
 <h1>Rishav</h1>
 <h1>test</h1>
 <h1>test</h1>
