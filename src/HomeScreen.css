@@ -14,6 +14,6 @@
 
 .content{
  position: relative;
- top: 250px;
+ top: auto;
  background-color: brown;
 }
