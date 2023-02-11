@@ -3,14 +3,14 @@
   top: -20px;
   //background-color: red;
   background-image: url("https://wallpapercave.com/wp/wp6157135.jpg");
-  //background-repeat: no-repeat;
+  background-repeat: no-repeat;
   background-size: auto;
   background-size: contain;
-  background-color: brown;
+  background-color: brownn
 }
 
 .content{
  position: relative;
- top: 1000px;
+ top: 500px;
   //background-color: brown;
 }
