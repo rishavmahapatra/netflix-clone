@@ -9,8 +9,11 @@
    background-color: brown;
 }
 
-.content{
- position: relative;
- top: 300px;
- background-color: brown;
+.img{
+
+  max-width: 100%;
+  height: auto;
+
+
+
 }
