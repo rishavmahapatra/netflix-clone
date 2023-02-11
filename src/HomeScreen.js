@@ -5,9 +5,11 @@ import Nav from './Nav';
 function HomeScreen() {
   return (
     <div className='homeScreen'>
-    <div className='content'>
+    
     <Nav/> 
+    <div className='content'>
  <img src= "https://wallpapercave.com/wp/wp6157135.jpg" alt='logo'/>
+     </div>
 <h1>Rishav</h1>
 <h1>test</h1>
 <h1>test</h1>
@@ -31,7 +33,7 @@ function HomeScreen() {
 <h1>test</h1>
 <h1>test</h1>
 <h1>test</h1> 
-    </div>
+   
    {/* Banner */}
 
    {/* Row */} 
