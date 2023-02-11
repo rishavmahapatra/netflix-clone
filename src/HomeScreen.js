@@ -6,7 +6,7 @@ function HomeScreen() {
   return (
     <div className='homeScreen'>
     <Nav/>
-       
+ <div className='content'>      
 <h1>Rishav</h1>
 <h1>test</h1>
 <h1>test</h1>
@@ -30,6 +30,7 @@ function HomeScreen() {
 <h1>test</h1>
 <h1>test</h1>
 <h1>test</h1>
+</div>    
    {/* Banner */}
 
    {/* Row */} 
