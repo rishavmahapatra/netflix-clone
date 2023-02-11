@@ -10,5 +10,6 @@
 
 .content{
   position: relative;
-  top: 500px;
+  top: 1500px;
+  background-color: brown;
 }
