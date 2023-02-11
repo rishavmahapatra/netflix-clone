@@ -16,7 +16,7 @@ function HomeScreen() {
         src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/e70b1333850498.56ba69ac32ae3.png' alt='avatar'/>
 
        
-<h1>test</h1>
+<h1>tedfdsst</h1>
 <h1>test</h1>
 <h1>test</h1>
 <h1>test</h1>
