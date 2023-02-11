@@ -5,7 +5,7 @@
   background-image: url("https://wallpapercave.com/wp/wp6157135.jpg");
   background-repeat: no-repeat;
   background-size: auto;
-  background-size: contain;
+  background-size: fill;
   background-color: brown;
 }
 
