@@ -6,10 +6,11 @@
   background-repeat: no-repeat;
   background-size: auto;
   background-size: contain;
+  background-color: brown;
 }
 
 .content{
  position: relative;
  top: 1000px;
-  background-color: brown;
+  //background-color: brown;
 }
