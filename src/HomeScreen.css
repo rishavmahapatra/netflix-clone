@@ -1,4 +1,5 @@
 .homeScreen{
+  position: fixed;
   top: 0px;
   background-color: red;
   //background-image: url("https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY-1920-80.jpg");
