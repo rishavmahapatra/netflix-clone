@@ -4,7 +4,8 @@
   //background-color: red;
   //background-image: url("https://wallpapercave.com/wp/wp6157135.jpg");
   //background-repeat: no-repeat;
-   background-color: brown;
+   //background-color: brown;
+  background: linear-gradient(90deg, #278bce 0,#8f4482 120%)
 }
 
 img{
