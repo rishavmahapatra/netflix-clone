@@ -15,8 +15,7 @@ justify-content: space-between;
 }
 .nav_black{
     
-    background-color: #71706e;
-    //background-color: #111;
+    background-color: #111;
 }
 .nav_logo{
     position: fixed;
