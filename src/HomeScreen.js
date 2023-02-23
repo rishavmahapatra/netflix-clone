@@ -11,7 +11,7 @@ function HomeScreen() {
  <img src= "https://wallpapercave.com/wp/wp6157135.jpg" alt='logo'/>
  <div className ='space'></div>    
 <h1>Rishav</h1>
-<h1>test</h1>
+
 <h1>test</h1>
 <h1>test</h1>
 <h1>test</h1>
